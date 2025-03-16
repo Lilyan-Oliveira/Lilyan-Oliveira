@@ -17,11 +17,9 @@
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="CommonLisp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Lisplogo.png">
   <img align="center" alt="Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg">
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Haskell" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg">
-  <img align="center" alt="BASIC" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Basic_Logo.svg">
 </div>
 
 ##
